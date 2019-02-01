@@ -20,6 +20,6 @@ public class Main{
 			System.out.println("あいこ!");
 		}else{
 			System.out.println("1,2,3のどれかを入力してください。");
-		 }
+		}
 	}
 }
